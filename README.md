@@ -1,2 +1,11 @@
 # WalletLib
-A simple library for Lethal Company with scripts that I use in my mods.
+
+Code = good
+
+RAM usage = small
+
+FPS = high
+
+bugs = none
+
+
