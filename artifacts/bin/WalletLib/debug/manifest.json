@@ -1,0 +1,8 @@
+{
+  "namespace": "Wallet",
+  "name": "WalletLib",
+  "version_number": "0.1.0",
+  "description": "A simple library with scripts for my mods.",
+  "website_url": "",
+  "dependencies": ["BepInEx-BepInExPack-5.4.2305"]
+}

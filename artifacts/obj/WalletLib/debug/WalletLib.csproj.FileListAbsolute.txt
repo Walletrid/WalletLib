@@ -1,0 +1,9 @@
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\bin\WalletLib\debug\com.wallet.WalletLib.deps.json
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\bin\WalletLib\debug\com.wallet.WalletLib.dll
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\WalletLib.csproj.AssemblyReference.cache
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\WalletLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\PluginInfo.g.cs
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\WalletLib.AssemblyInfoInputs.cache
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\WalletLib.AssemblyInfo.cs
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\WalletLib.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Felipe\Documents\Jogos\Jogos²\LethalCompany\Mods\TrueCodeMods\WalletLib\artifacts\obj\WalletLib\debug\com.wallet.WalletLib.dll
